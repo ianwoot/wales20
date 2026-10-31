@@ -1,0 +1,70 @@
+Cover_sheet,"TRA0413: Pedal cycle traffic (vehicle kilometres) by region and country in Great Britain, annual from 1993",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cover_sheet,About this release,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cover_sheet,"This workbook contains one data table with an accompanying cover sheet, table of contents and notes worksheet. This workbook has been edited to meet the legal accessibility regulations.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cover_sheet,"Some cells in the data table(s) refer to notes, which can be found in the Notes worksheet.  Note markers are presented in square brackets, for example: [note 1].",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cover_sheet,The statistics presented in this spreadsheet were independently reviewed by the Office for Statistics Regulation in February 2013 and are therefore labelled ‘accredited official statistics’.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cover_sheet,Data source,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cover_sheet,Department for Transport National Road Traffic Survey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cover_sheet,Author: Road Traffic Statistics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cover_sheet,Date of publication ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cover_sheet,Last updated: May 2026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cover_sheet,Next update: May/June 2027,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cover_sheet,Further information,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cover_sheet,"
+              Publication on GOV.UK: Road traffic estimates, Great Britain
+            ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cover_sheet,"
+              Road traffic statistics
+            ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cover_sheet,"
+              Methodology, notes and definitions
+            ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cover_sheet,"
+              Code of Practice for Statistics
+            ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cover_sheet,"
+              Accredited Official Statistics Policy – Office for Statistics Regulation
+            ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cover_sheet,Contact details,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cover_sheet,"
+              roadtraff.stats@dft.gov.uk
+            ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Table_of_contents,Table of contents,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Table_of_contents,This worksheet contains one table. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Table_of_contents,Worksheet name,Worksheet title,Source,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Table_of_contents,TRA0413,"Pedal cycle traffic (vehicle kilometres) by region and country in Great Britain, annual from 1993",Department for Transport Road Traffic Survey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Notes,Notes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Notes,This worksheet contains one table.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Notes,Note number,Note text,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Notes,note 1,"Includes activity of cyclists on public highways, and on cycle paths and footpaths adjacent to them. Cycle activity elsewhere (for example on canal towpaths, byways or bridleways) is not included.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Notes,note 2,These figures are affected by the September 2000 fuel protest.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Notes,note 3,These 2001 figures are affected by the impact of Foot and Mouth disease.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Notes,note 4,These figures are affected by the coronavirus (COVID-19) pandemic. Take caution when interpreting these data and comparing them with other time periods.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRA0413,"TRA0413: Pedal cycle traffic (vehicle kilometres) by region and country in Great Britain, annual from 1993",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRA0413,This worksheet contains one table.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRA0413,"Notes are used throughout this table, please see the notes worksheet to find the related notes text.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRA0413,Values in this table may not sum due to rounding.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRA0413,Region,Former Metropolitan County,Notes,Units,1993,1994,1995,1996,1997,1998,1999,2000 [note 2],2001 [note 3],2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020 [note 4],2021 [note 4],2022 [note 4],2023,2024,2025
+TRA0413,North East,North East All,[note 1],Billion vehicle kilometres,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.15,0.15,0.16,0.16,0.15,0.15,0.16,0.15,0.16,0.17,0.17,0.18,0.19,0.18,0.19,0.18,0.18,0.18,0.17,0.17,0.25,0.18,0.19,0.17,0.16,0.17
+TRA0413,North East,Tyne and Wear FMC,[note 1],Billion vehicle kilometres,0.07,0.07,0.08,0.07,0.07,0.07,0.07,0.08,0.08,0.09,0.09,0.08,0.08,0.09,0.08,0.09,0.09,0.09,0.09,0.1,0.09,0.1,0.09,0.1,0.1,0.09,0.09,0.12,0.08,0.09,0.08,0.08,0.08
+TRA0413,North East,Rest of North East,[note 1],Billion vehicle kilometres,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.07,0.08,0.08,0.08,0.09,0.09,0.09,0.09,0.08,0.09,0.08,0.08,0.13,0.09,0.1,0.09,0.08,0.08
+TRA0413,North West,North West All,[note 1],Billion vehicle kilometres,0.4,0.4,0.42,0.41,0.41,0.4,0.41,0.42,0.43,0.44,0.45,0.41,0.42,0.44,0.4,0.46,0.48,0.48,0.49,0.52,0.5,0.55,0.51,0.46,0.47,0.51,0.54,0.7,0.61,0.59,0.52,0.5,0.51
+TRA0413,North West,Greater Manchester FMC,[note 1],Billion vehicle kilometres,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.16,0.16,0.17,0.15,0.16,0.16,0.15,0.17,0.18,0.17,0.18,0.18,0.17,0.18,0.17,0.17,0.18,0.19,0.2,0.25,0.21,0.2,0.18,0.18,0.18
+TRA0413,North West,Merseyside FMC,[note 1],Billion vehicle kilometres,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.06,0.06,0.06,0.05,0.06,0.06,0.05,0.06,0.06,0.06,0.06,0.07,0.06,0.07,0.06,0.06,0.06,0.07,0.07,0.09,0.08,0.08,0.07,0.07,0.07
+TRA0413,North West,Rest of North West,[note 1],Billion vehicle kilometres,0.21,0.21,0.21,0.21,0.21,0.2,0.21,0.21,0.21,0.22,0.22,0.2,0.21,0.22,0.2,0.23,0.24,0.24,0.25,0.27,0.26,0.29,0.27,0.23,0.23,0.25,0.27,0.37,0.32,0.31,0.27,0.25,0.26
+TRA0413,Yorkshire and The Humber,Yorkshire and The Humber All,[note 1],Billion vehicle kilometres,0.37,0.37,0.39,0.38,0.38,0.37,0.38,0.39,0.4,0.41,0.42,0.39,0.4,0.42,0.38,0.43,0.45,0.45,0.46,0.49,0.47,0.52,0.48,0.42,0.5,0.5,0.54,0.87,0.61,0.59,0.52,0.5,0.51
+TRA0413,Yorkshire and The Humber,South Yorkshire FMC,[note 1],Billion vehicle kilometres,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.09,0.08,0.08,0.09,0.08,0.09,0.09,0.09,0.1,0.1,0.1,0.11,0.1,0.09,0.1,0.1,0.11,0.18,0.12,0.12,0.11,0.1,0.11
+TRA0413,Yorkshire and The Humber,West Yorkshire FMC,[note 1],Billion vehicle kilometres,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.07,0.07,0.07,0.07,0.08,0.07,0.08,0.07,0.07,0.08,0.08,0.09,0.13,0.09,0.09,0.08,0.08,0.08
+TRA0413,Yorkshire and The Humber,Rest of Yorkshire and The Humber,[note 1],Billion vehicle kilometres,0.24,0.24,0.25,0.24,0.24,0.24,0.24,0.25,0.25,0.27,0.27,0.25,0.26,0.27,0.24,0.27,0.28,0.29,0.29,0.31,0.3,0.33,0.31,0.26,0.32,0.32,0.34,0.56,0.39,0.38,0.34,0.32,0.33
+TRA0413,East Midlands,East Midlands All,[note 1],Billion vehicle kilometres,0.32,0.32,0.33,0.32,0.33,0.32,0.33,0.34,0.34,0.35,0.36,0.33,0.34,0.36,0.33,0.37,0.39,0.39,0.4,0.43,0.42,0.46,0.43,0.44,0.45,0.43,0.46,0.66,0.53,0.47,0.43,0.41,0.42
+TRA0413,West Midlands,West Midlands All,[note 1],Billion vehicle kilometres,0.31,0.32,0.33,0.32,0.32,0.31,0.32,0.33,0.33,0.34,0.35,0.32,0.34,0.35,0.32,0.36,0.38,0.38,0.39,0.42,0.41,0.45,0.42,0.41,0.35,0.37,0.37,0.53,0.43,0.38,0.35,0.33,0.34
+TRA0413,West Midlands,West Midlands FMC,[note 1],Billion vehicle kilometres,0.12,0.12,0.13,0.12,0.12,0.12,0.12,0.13,0.13,0.14,0.14,0.13,0.13,0.14,0.12,0.14,0.15,0.14,0.15,0.15,0.14,0.15,0.14,0.16,0.14,0.14,0.15,0.19,0.15,0.14,0.13,0.13,0.13
+TRA0413,West Midlands,Rest of West Midlands,[note 1],Billion vehicle kilometres,0.2,0.2,0.2,0.2,0.2,0.19,0.2,0.2,0.2,0.21,0.21,0.19,0.21,0.21,0.2,0.22,0.23,0.24,0.25,0.27,0.26,0.3,0.28,0.25,0.21,0.22,0.22,0.34,0.28,0.24,0.22,0.21,0.21
+TRA0413,East of England,East of England All,[note 1],Billion vehicle kilometres,0.59,0.59,0.61,0.6,0.6,0.58,0.6,0.62,0.63,0.66,0.67,0.62,0.65,0.67,0.62,0.69,0.72,0.72,0.74,0.79,0.77,0.85,0.79,0.81,0.85,0.79,0.85,1.14,0.84,0.82,0.73,0.69,0.71
+TRA0413,London,London All,[note 1],Billion vehicle kilometres,0.44,0.45,0.46,0.47,0.47,0.44,0.45,0.46,0.49,0.5,0.54,0.52,0.59,0.63,0.59,0.62,0.63,0.64,0.63,0.64,0.6,0.66,0.66,0.81,0.81,0.83,0.75,1.12,1.04,0.97,1.01,1.12,1.22
+TRA0413,South East,South East All,[note 1],Billion vehicle kilometres,0.69,0.7,0.72,0.71,0.71,0.69,0.71,0.72,0.74,0.77,0.79,0.72,0.75,0.78,0.72,0.81,0.85,0.85,0.87,0.92,0.89,0.98,0.92,0.91,0.96,0.98,1,1.53,1.17,1.05,0.97,0.92,0.95
+TRA0413,South West,South West All,[note 1],Billion vehicle kilometres,0.37,0.37,0.38,0.37,0.37,0.36,0.37,0.37,0.37,0.39,0.4,0.37,0.38,0.4,0.37,0.42,0.44,0.45,0.46,0.5,0.49,0.54,0.51,0.5,0.54,0.58,0.59,0.78,0.62,0.55,0.51,0.48,0.5
+TRA0413,England,England All,[note 1],Billion vehicle kilometres,3.64,3.65,3.77,3.71,3.72,3.6,3.71,3.79,3.87,4.03,4.13,3.83,4.03,4.22,3.86,4.31,4.49,4.54,4.64,4.89,4.72,5.21,4.9,4.93,5.1,5.17,5.27,7.59,6.04,5.62,5.22,5.11,5.33
+TRA0413,Scotland,Scotland All,[note 1],Billion vehicle kilometres,0.24,0.24,0.24,0.24,0.23,0.23,0.24,0.24,0.24,0.25,0.25,0.22,0.23,0.25,0.23,0.26,0.27,0.29,0.29,0.32,0.32,0.36,0.33,0.29,0.29,0.31,0.37,0.6,0.44,0.42,0.4,0.38,0.4
+TRA0413,Wales,Wales All,[note 1],Billion vehicle kilometres,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.13,0.14,0.14,0.13,0.14,0.14,0.13,0.15,0.16,0.16,0.16,0.18,0.18,0.2,0.19,0.19,0.18,0.19,0.21,0.34,0.28,0.23,0.19,0.18,0.19
+TRA0413,Great Britain,Great Britain All,[note 1],Billion vehicle kilometres,4.01,4.02,4.14,4.07,4.08,3.95,4.08,4.16,4.24,4.42,4.51,4.18,4.4,4.61,4.22,4.72,4.92,4.98,5.09,5.4,5.22,5.77,5.42,5.41,5.58,5.66,5.84,8.53,6.76,6.27,5.81,5.67,5.91
