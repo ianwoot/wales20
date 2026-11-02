@@ -2,8 +2,8 @@
 
 Scripts and data to replicate Walker's Wales 20 mph analysis
 
-You should be able to run the whole analysis by running do_analysis.R. The data should already
-be downloaded in the data folder, although you're welcome to download them again and use build_panel.R
+You should be able to run the whole analysis by running do_analysis.R. The data files are too large to upload
+to Github (e.g., 2017-2025 collision data ~48 MB)but build_panel.R has the instructions on how
 to recreate the data files. 
 
 That said, you also shouldn't need to run the analysis: I've uploaded the "output" and "figures"
